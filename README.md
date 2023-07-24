@@ -12,3 +12,8 @@ To use the credit card number validator, follow the steps below:
 
 3. Run the program with the following command:
 ``` go run validator.go ```
+
+
+## Testing
+
+You can use this website in order to test some credit card numbers: [https://www.paypalobjects.com/en_AU/vhelp/paypalmanager_help/credit_card_numbers.htm](https://www.paypalobjects.com/en_AU/vhelp/paypalmanager_help/credit_card_numbers.htm).
